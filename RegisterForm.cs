@@ -14,6 +14,8 @@ namespace WinFormsSQL
 {
     public partial class RegisterForm : DODO_Form
     {
+        public string comitTest = "";
+
         private LoginForm loginForm;
         public int interval = 15;
         protected const string userNameFieldDefault = "Введите имя";
