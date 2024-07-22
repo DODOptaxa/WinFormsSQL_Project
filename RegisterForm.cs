@@ -12,7 +12,6 @@ using MySqlConnector;
 
 namespace WinFormsSQL
 {
-    public int a;
     public partial class RegisterForm : DODO_Form
     {
         private LoginForm loginForm;
